@@ -1,15 +1,14 @@
-# Index
+- [CLI App](#cli-app)
+    - [Core Features](#core-features)
+    - [UI Design for CLI](#ui-design-for-cli)
+- [ETL App](#etl-app)
+    - [Core Features](#core-features-1)
+- [REST API](#rest-api)
+    - [Core Features](#core-features-2)
+- [Web App](#web-app)
+      - [Options](#options)
 
-[CLI App](#cli-app)
 
-[ETL App](#etl-app)
-
-[REST API](#rest-api)
-
-[Web App](#web-app)
-
-
----
 # CLI App
 
 > Used for reading CSV files directly and printing out report by year
